@@ -1,5 +1,7 @@
 Waite's Shadow Continuum (WSC)
+
 By Tristan Waite 12/21/2024
+
 Abstract
 This white paper introduces a novel framework for understanding the universe's structure, integrating dimensional progression, symmetry, quantum entanglement, and consciousness into a cohesive model. We propose that the 5th dimension serves as a universal “canvas,” containing all variations of 4D entities and their projections into 3D space-time. Additionally, we suggest that the concept of expansion—as seen in the ever-growing universe—can be reinterpreted through this framework, where space may be expanding and folding back on itself in higher-dimensional space. By reinterpreting quantum phenomena, time, and consciousness through this higher-dimensional lens, we present a unifying theory that addresses the most perplexing questions in physics, philosophy, and cognitive science.
 
